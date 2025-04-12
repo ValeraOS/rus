@@ -1,18 +1,18 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Kingdom of Rus",
+		"leaderName": "Rurik II",
+		"adjective": ["Russian"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Very well then.",
+		"attacked": "Can you really call your empire a civilized state, if it was built upon the bones of so many innocent lives?",
+		"defeated": "Even though you have defeated our home, the people of Rus' will never lose hope. Perhaps, this charade was worth it in the end.",
+		"introduction": "I am Rurik II, Emperor and Autocrat of all the Rus'. Let us be friends.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -22,17 +22,17 @@
 		"hateHello": "What do you want now?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateYes": ["That is fine.","That is good enough.","Very well."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Very well. All that fighting was becoming boring, anyways.",
+		"tradeRequest": "As Emperor of all the Rus, I bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [223,148,24],
+		"innerColor": [136,32,28],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Kemerovo","Krasnoyarsk","Kansk","Novosibirsk","Tomsk","Barnaul","Oyrotia","Irkutsk","Sibgrad", "Ulan-Ude","Chita",
+			"Yakutsk","Magadan","Amur","Kamchatka","Omsk","Sverdlovsk","Tyumen","Chelyabinsk", "Zlatoust","Gayny","New Perm",
+			"Vyatka","Syktyvkar","Arkhangelsk","Samara","Magnitogorsk","Vorkuta","Gorky","Kurgan","Kazan","Orenburg",
+			"Nizhny Tagil","Izhevsk","Beloretsk"]
 	}
 ]
